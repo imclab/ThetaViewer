@@ -105,3 +105,6 @@ Author
 ------
 
 [小久保温(Atsushi Kokubo)](http://www.dma.aoba.sendai.jp/~acchan/).
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/Kokubo-JS-Viewer)
+
